@@ -1,0 +1,33 @@
+_repo: Twenty-Six-Years-Reminiscences-of-Scotch-Grouse-Moors_45796
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Whymper, Charles
+    alias: Whymper, C. (Charles)
+    birthdate: 1853
+    deathdate: 1941
+    gutenberg_agent_id: '43591'
+    url: http://www.gutenberg.org/2009/agents/43591
+covers:
+- cover_type: archival
+  image_path: 45796-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Adams, William Alexander
+    gutenberg_agent_id: '43459'
+    url: http://www.gutenberg.org/2009/agents/43459
+description: ''
+gutenberg_issued: '2014-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45796'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fowling'
+- !lcsh 'Grouse shooting -- Scotland'
+- !lcc 'SK'
+title: Twenty-Six Years Reminiscences of Scotch Grouse Moors
+url: http://www.gutenberg.org/ebooks/45796
