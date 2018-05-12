@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '43459'
     url: http://www.gutenberg.org/2009/agents/43459
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45796#Twenty-Six-Years-Reminiscences-of-Scotch-Grouse-Moors
 gutenberg_issued: '2014-05-28'
 gutenberg_type: Text
 identifiers:
